@@ -1,2 +1,3 @@
 stage file addeded
 acb file has changes by other user
+Before patch
